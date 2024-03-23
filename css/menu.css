@@ -2,7 +2,7 @@
     display: flex;
     margin-left: 50px;
     margin-top: 20px;
-    margin-bottom: 40px
+    margin-bottom: 40px;
   }
 
   .menu-box_column:first-child{
@@ -61,6 +61,10 @@
 
 .fa-circle-dot{
   color: #d31931;
+}
+
+.menu-textbox span{
+  font-size: 18px;
 }
 
 @keyframes menuRedAnimaation{
